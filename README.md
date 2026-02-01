@@ -80,4 +80,4 @@ public class CustomerTest {
 }
 
 ### Результат
-![alt-текст](https://github.com/ppc-ntu-khpi/java-1-prikhodko25/blob/main/Solution/advanced.png)
+![alt-текст](https://github.com/ppc-ntu-khpi/java-1-prikhodko25/blob/main/Solution/advancеd.png)
