@@ -1,6 +1,6 @@
 # Звіт
 ## Customer
-Код програмии
+### Код програмии
 package domain;
 
 public class Customer {
@@ -51,6 +51,5 @@ public class Customer {
         System.out.println("Total purchases are: " + total);
     }
 }
-Результат
-![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 1")
+### Результат
 ![alt-текст](https://github.com/ppc-ntu-khpi/java-1-prikhodko25/blob/main/src/domain/placeholder.png)
