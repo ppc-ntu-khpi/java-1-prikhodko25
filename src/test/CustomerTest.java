@@ -9,9 +9,9 @@ public class CustomerTest {
         System.out.println("Default customer data:");
         myCustomer.displayCustomerInfo();
 
-        myCustomer.setID(101);
+        myCustomer.setID(2);
         myCustomer.setStatus(false);
-        myCustomer.setTotal(5500.75);
+        myCustomer.setTotal(1075);
 
         System.out.println("Updated customer data:");
         myCustomer.displayCustomerInfo();
