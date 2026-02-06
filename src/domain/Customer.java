@@ -1,8 +1,3 @@
-# Звіт
-## Customer
-### Код програмии
-
-````java
 package domain;
 
 public class Customer {
@@ -53,33 +48,3 @@ public class Customer {
         System.out.println("Total purchases are: " + total);
     }
 }
-````
-### Результат
-![alt-текст](https://github.com/ppc-ntu-khpi/java-1-prikhodko25/blob/main/src/domain/placeholdеr.png)
-
-## CustomerTest
-
-### Код програми
-````java
-package test;
-
-import domain.Customer;
-
-public class CustomerTest {
-    public static void main(String[] args) {
-        Customer myCustomer = new Customer();
-
-        System.out.println("Default customer data:");
-        myCustomer.displayCustomerInfo();
-
-        myCustomer.setID(2);
-        myCustomer.setStatus(false);
-        myCustomer.setTotal(1075);
-
-        System.out.println("Updated customer data:");
-        myCustomer.displayCustomerInfo();
-    }
-}
-````
-### Результат
-![alt-текст](https://github.com/ppc-ntu-khpi/java-1-prikhodko25/blob/main/Solution/advancеd.png)
